@@ -27,4 +27,4 @@ def main():
         print(f"Error: Could not write to '{output_filename}'.")
 
 if __name__ == "__main__":
-    main()
+    
